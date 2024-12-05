@@ -26,11 +26,14 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 - Passanges coded with different tags have the same colour in Taguette. 
 - Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
+2. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
+3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+4. Use GenAI tools for Sentiment Analysis on free-form survey questions or social media posts.
+5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

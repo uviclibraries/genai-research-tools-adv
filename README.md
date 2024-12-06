@@ -1,4 +1,4 @@
-# GenAI: Research Tools (Advanced)
+# GenAI: Research Tools (_Advanced_)
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-research-tools-adv/

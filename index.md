@@ -3,8 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/About the workshop" style="float:right;width:180px;" alt="decorative image">
+<img src="images/genai-adv.png" style="float:right;width:180px;" alt="decorative image">
 
 # GenAI: Research Tools (Advanced)
 

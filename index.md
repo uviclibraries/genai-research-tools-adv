@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/genai-adv.png" style="float:right;width:180px;" alt="decorative image">
 
-# GenAI **ADV**: Research Tools
+# GenAI: Research Tools (_Advanced_)
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min

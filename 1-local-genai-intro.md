@@ -27,7 +27,7 @@ Let's get started installing and using GPT4All for basic tasks!
 - [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
 <br>-OR-
 - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
-2. **Install GPT4All** on your laptop:
+8. **Install GPT4All** on your laptop:
 - **Mac Install**:
   - After downloading the installer, double-click on it.
   - Next, double-click on the _gpt4all-installer-darwin_ file and follow the installation instructions.

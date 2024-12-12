@@ -86,7 +86,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
      - click on the **Documents** menu item on the left of the dialogue box.
      - Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button.
      - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
-<img src="images/3-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/4-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
    - **If you are on a Windows computer**:
      - In the left navigation bar, scroll down and click on the **Local Disk (C:)** button.
      - Next click on the **New Folder** button on the top left of the dialogue box, and name your folder: **sentiment-analysis**, and press **Enter** on your keyboard.

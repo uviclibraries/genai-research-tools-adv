@@ -57,6 +57,7 @@ Python is a programming language that is often used by researchers to assist the
    - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
    - Click on the **Free** button beside the most recent version of Python.
    - Click on the blue **Get** button to install Python on your computer.
+   - [Windows](https://www.python.org/downloads/windows/){:target="_blank"}
 
 ## Install the Python GPT4All Library
 In order for Python to have access to all the wonderful GPT4All tools, you need to install the GPT4All Python library:

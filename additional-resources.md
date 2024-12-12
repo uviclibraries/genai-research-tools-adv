@@ -6,6 +6,8 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## GenAI Resources
+[Concordia GenAI Quickstart](https://library.concordia.ca/learn/genai/course.html?id=m01): Foundations for Faculty Open Course. Lecture style, not hands-on… perfect for many prof’s ;-) 
+
 
 ## Teaching Ressources for GenAI in Education
 - [you.com](https://you.com/){:target="_blank"}  - an AI-powered platform that provides search results and AI-generated writing assistance

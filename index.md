@@ -7,9 +7,9 @@ nav_order: 1
 
 # GenAI: Research Tools (_Advanced_)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 5 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 60-90 min
 
 ## About the workshop 
 

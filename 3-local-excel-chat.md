@@ -16,7 +16,7 @@ Microsoft Excel allows you to create, manage, and analyze data in spreadsheet fo
 
 1. Navigate to the Chats view within GPT4All.<br>
 <img src="images/3-chat_window.png" style="width:800px;" alt="decorative">
-2. Download the [example spreadsheet](images/workshops-stats.xlsx){:target="_blank"}, or use your own.<br>
+2. Download the [example spreadsheet](images/workshop-stats.xlsx){:target="_blank"}, or use your own.<br>
 <img src="images/3-excel-example.png" style="width:800px;" alt="Decorative">
 3. Attach the spreadsheet to a GPT4All conversation.<br>
 <img src="images/3-attach_spreadsheet.png" style="width:800px;" alt="decorative">

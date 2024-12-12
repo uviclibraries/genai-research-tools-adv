@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 5 - Qualitative Coding
+title: 5 - COMING SOON - Qualitative Coding
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
+# COMING DECEMBER 2024
 # Generative AI for Research: Qualitative Coding
 <img src="images/4-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
 Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.

@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## GenAI Resources
-[Concordia GenAI Quickstart](https://library.concordia.ca/learn/genai/course.html?id=m01): Foundations for Faculty Open Course. Lecture style, not hands-on… perfect for many prof’s ;-) 
+[Concordia GenAI Quickstart](https://library.concordia.ca/learn/genai/course.html?id=m01){:target="_blank"} : Foundations for Faculty Open Course. Lecture style, not hands-on… perfect for many prof’s ;-) 
 
 
 ## Teaching Ressources for GenAI in Education
@@ -18,8 +18,8 @@ nav_order: 10
 - [https://www.aitutorpro.ca](https://www.aitutorpro.ca){:target="_blank"}
 
 AI Detectors:
-[https://gptzero.me/]
-[https://writer.com/ai-content-detector/]
+[https://gptzero.me/]([https://gptzero.me/){:target="_blank"} 
+[https://writer.com/ai-content-detector/](https://writer.com/ai-content-detector/){:target="_blank"} 
 
 
 ## Acknowledgements

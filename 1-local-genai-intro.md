@@ -21,7 +21,7 @@ There are many reasons to use a local GenAI tool like GPT4All as an alternative 
 - Being offline also means that all the data you share with it stays on your computer, and GPT4All's creators can't see any of your data or prompts.
 - GPT4All allows you to query local documents in a folder on your laptop that you specify.
 
-> Note: GPT4All is not as capable as ChatGPT or other cloud-based GenAI tools, because it is limited by the speed of your computer. On the other hand it is private, so if prvacy is important for a task, then GPT4All might be a good tool choice.
+> **Note**: GPT4All is not as capable as ChatGPT or other cloud-based GenAI tools, because it is limited by the speed of your computer. On the other hand it is private, so if prvacy is important for a task, then GPT4All might be a good tool choice.
 
 Let's get started installing and using GPT4All for basic tasks!
 

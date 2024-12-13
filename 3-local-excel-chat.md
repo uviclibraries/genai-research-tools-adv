@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Microsoft Excel allows you to create, manage, and analyze data in spreadsheet format. By attaching your spreadsheets directly to GPT4All, you can privately chat with the AI to query and explore the data, enabling you to summarize, generate reports, and glean insights from your files—all within your conversation.
 
-<img src="images/3-excel-chat.gif" style="float:right;width:800px;" alt="GPT4All excel chat">
+<img src="images/3-excel-chat.gif" style="float:right;width:800px;" alt="GPT4All excel chat"><br>
 
 ## Attach Microsoft Excel to your GPT4All Conversation
 

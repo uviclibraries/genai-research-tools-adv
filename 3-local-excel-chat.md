@@ -22,7 +22,10 @@ Microsoft Excel allows you to create, manage, and analyze data in spreadsheet fo
 <img src="images/3-attach_spreadsheet.png" style="width:800px;" alt="decorative">
 4. Have GPT4All Summarize and Generate a Report: ```Summarize, generate reports, and glean insights from this file.```<br>
 <img src="images/3-spreadsheet_summary.png" style="width:800px;" alt="decorative">
-6. How did it do? Do the summarized reports and insights sound reasonable? Or not?
+> Reflection:
+> - How did it do?
+> - Do the summarized reports and insights sound reasonable?
+5. Why don't you try working with one of your own spreadsheets now!
 
 ## Limitations
 

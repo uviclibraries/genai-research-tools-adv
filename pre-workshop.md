@@ -56,17 +56,17 @@ AI can be a useful tool for increasing efficiency in your research. However, it 
 
 AI can produce biased outputs due to data biases, leading to various harms:
 
-Allocative Harm: Withholding opportunities or resources, such as an AI denying a tenant application based on inaccurate risk assessments.
+- Allocative Harm: Withholding opportunities or resources, such as an AI denying a tenant application based on inaccurate risk assessments.
 
-Quality-of-Service Harm: Reduced performance for certain groups, exemplified by speech-recognition tech struggling with diverse speech patterns.
+- Quality-of-Service Harm: Reduced performance for certain groups, exemplified by speech-recognition tech struggling with diverse speech patterns.
 
-Representational Harm: Reinforcement of stereotypes, like translation tools skewing gender in outputs based on input words.
+- Representational Harm: Reinforcement of stereotypes, like translation tools skewing gender in outputs based on input words.
 
-Social System Harm: Macro-level inequalities exacerbated by AI, such as harmful deepfakes.
+- Social System Harm: Macro-level inequalities exacerbated by AI, such as harmful deepfakes.
 
-Interpersonal Harm: Technology misuse affecting personal relationships and individual agency, like pranks facilitated by smart devices.
+- Interpersonal Harm: Technology misuse affecting personal relationships and individual agency, like pranks facilitated by smart devices.
 
-Drift and Knowledge Cutoff in AI: Drift refers to declining accuracy in AI predictions over time due to outdated training data, while knowledge cutoff indicates the last point when the model was trained. For instance, a model trained on 2015 data may not reflect current trends. Regular monitoring and updates are crucial to maintain AI reliability, as biases in new data and changes in societal behavior can contribute to drift.
+- Drift and Knowledge Cutoff in AI: Drift refers to declining accuracy in AI predictions over time due to outdated training data, while knowledge cutoff indicates the last point when the model was trained. For instance, a model trained on 2015 data may not reflect current trends. Regular monitoring and updates are crucial to maintain AI reliability, as biases in new data and changes in societal behavior can contribute to drift.
 
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }

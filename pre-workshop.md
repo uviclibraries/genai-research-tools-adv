@@ -16,7 +16,7 @@ To be ready to jump right into the interactive activities during the workshop, *
 - [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="Here's Why GPT4All Could Be A Real GAME-CHANGER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tips for Creating Prompts  (based on [Coursera’s Google AI Essentials Course](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=159503076897&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=697863129536&hide_mobile_promo&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAiFKkeR7EzH8jO3pcyPpTKIoychc3t2hp3cZb17m8hoRmiWvRk2iWRoCvmwQAvD_BwE){:target="_blank"})
+## Tips for Creating Prompts  (based on [Coursera’s Google AI Essentials Course](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=159503076897&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=697863129536&hide_mobile_promo&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAiFKkeR7EzH8jO3pcyPpTKIoychc3t2hp3cZb17m8hoRmiWvRk2iWRoCvmwQAvD_BwE))
 
 This tool is an example of a Large Learning Model (LLM), which describes AI models trained on large amounts of text to identify patterns between words, concepts, and phrases so that it can generate responses to user-generated prompts. Since LLMs depend on user inputs, a well-crafted prompt follows a framework: Task, Context, References, Evaluate, and Iterate.
 
@@ -52,7 +52,7 @@ Effective prompting is about continuously improving your approach until the desi
 AI can be a useful tool for increasing efficiency in your research. However, it is important to be aware of limitations and risks associated with using AI technology as described below (from Coursera’s Google AI Essentials Course).
 
 
-## Harms, Biases, and Risks Associated with AI (from [Coursera’s Google AI Essentials Course](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=159503076897&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=697863129536&hide_mobile_promo&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAiFKkeR7EzH8jO3pcyPpTKIoychc3t2hp3cZb17m8hoRmiWvRk2iWRoCvmwQAvD_BwE){:target="_blank"})
+## Harms, Biases, and Risks Associated with AI (from [Coursera’s Google AI Essentials Course](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=159503076897&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=697863129536&hide_mobile_promo&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAiFKkeR7EzH8jO3pcyPpTKIoychc3t2hp3cZb17m8hoRmiWvRk2iWRoCvmwQAvD_BwE))
 
 AI can produce biased outputs due to data biases, leading to various harms:
 

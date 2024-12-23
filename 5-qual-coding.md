@@ -6,22 +6,8 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 # UNDER CONSTRUCTION -> Generative AI for Research: Qualitative Coding
-<img src="images/4-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
-Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.
 
-In this workshop, we will explore how to use Notebook LM for thematic analysis, while being mindful of their limitations. If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
-
-## Capabilities & Considerations of GPT4All
-Generative AI tools like GPT4All allow researchers to more quickly, efficiently, and reliably identify the sentiment of a sentence or short paragraph, to uncover trends and patterns. 
-
-### Pros of using generative AI for sentiment analysis:
-- Efficiency: Automatically process vast amounts of textual data in a fraction of the time it would take manual analysis.
-- Insight generation: Beyond sentiment classification, generative AI can extract themes, topics, and even generate summaries of responses.
-- Research Ethics: If the GenAI tool runs locally on a researcher's laptop, and does not contact the cloud, no cloud-computing disclosures are likely needed in your research ethics proposal.
-
-### Cons of using generative AI for sentiment analysis:
-- Model limitations: While powerful, generative AI models may struggle with complex language, or sarcasm.
-- Potential biases: Generative AI models inherit biases present in the training data, affecting the accuracy and fairness of results.
+NotebookLM can be a real time saver when used for qualitative coding. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
 
 ## Capabilities & Considerations of NotebookLM:
 NotebookLM can be a real time saver when used for thematic analysis. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
@@ -69,6 +55,13 @@ Text classification is another common application for LLMs. For example, an LLM 
 _Read these survey responses and tell me whether the sentiment of the survey response is positive, negative, or neutral._
 
 The prompt begins by clearly stating that the task is to analyze the sentiment of a customer review and then specifies the options: positive, negative, or neutral. Then, the prompt includes the relevant reviews under the label “Survey Response.”
+
+## Learning Objectives
+
+- Import transcripts onto NotebookLM
+- Identify key ideas/themes from transcripts
+- Use NotebookLM to synthesize different transcripts
+- Save insights generated from NotebookLM
 
 ## Thematic Analysis with NotebookLM
 

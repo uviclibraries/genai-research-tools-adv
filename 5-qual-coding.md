@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5 - COMING SOON - Qualitative Coding
+title: 5 - Qualitative Coding
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# UNDER CONSTRUCTION -> Generative AI for Research: Qualitative Coding
+# Generative AI for Research: Qualitative Coding
 
 NotebookLM can be a real time saver when used for qualitative coding. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
 

@@ -66,7 +66,7 @@ In this activity, you will use NotebookLM to identify and synthesize key themes/
 
 <img src="images/5-NotebookLM5.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 
-6. To synthesize two interview transcripts, close the right panel if it is open and click the plus symbol beside “Sources” in the top left. Then, enter the following link: https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-anne-sueyeun-seol
+6. To synthesize two interview transcripts, close the right panel if it is open and click the plus symbol beside “Sources” in the top left. Then, enter the following link: ```https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-anne-sueyeun-seol```
 
 <img src="images/5-NotebookLM6.png" style="width:300px;padding:10px;border: 1px solid #555;float:right;"><br>
 

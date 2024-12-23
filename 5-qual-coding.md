@@ -71,7 +71,7 @@ In this activity, you will use NotebookLM to identify and synthesize key themes/
 
 <img src="images/5-NotebookLM1.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 
-2. To add a source, select “Website” under Link and paste the following link: https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-ziggy-mimloid 
+2. To add a source, select “Website” under Link and paste the following link: ```https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-ziggy-mimloid```
 
 <img src="images/5-NotebookLM2.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 

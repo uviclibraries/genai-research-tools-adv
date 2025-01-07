@@ -11,9 +11,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 NotebookLM can be a real time saver when used for qualitative coding. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
 
-## Capabilities & Considerations of NotebookLM:
-NotebookLM can be a real time saver when used for thematic analysis. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
-
 ## Pros of using NotebookLM for thematic analysis:
 Using NotebookLM can save you time, enhancing the efficiency of qualitative data analysis. Here are some key advantages of using this tool: 
 - **Data Organization and Synthesis**: NotebookLM excels at synthesizing information from multiple documents. It allows users to create notebooks for specific projects and import relevant documents, enabling quick access to organized data.

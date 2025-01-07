@@ -24,5 +24,9 @@ At the end of this workshop, you will be able to:
 3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
 4. Use GenAI tools for Sentiment Analysis on free-form survey questions or social media posts.
 5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
+6. Import transcripts onto NotebookLM
+7. Use NotebookLM to identify key ideas/themes from transcripts
+8. Use NotebookLM to synthesize different transcripts
+9. Save insights generated from NotebookLM
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

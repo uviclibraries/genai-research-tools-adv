@@ -15,9 +15,10 @@ NotebookLM can be a real time saver when used for qualitative coding. It is an A
 NotebookLM can be a real time saver when used for thematic analysis. It is an AI tool that can generate various insights relevant to qualitative research, such as summaries, trends in data, and synthesis of different sources. You can upload sources such as text, PDFs, websites, YouTube videos, audio files, .txt files, Google Docs or Google Slides. Please note that Word documents will need to be converted into a .txt file or Google Doc, or pasted as text.
 
 ## Pros of using NotebookLM for thematic analysis:
-Using NotebookLM can save you time, enhancing the efficiency of qualitative data analysis. Here are some key advantages of using this tool: Data Organization and Synthesis: NotebookLM excels at synthesizing information from multiple documents. It allows users to create notebooks for specific projects and import relevant documents, enabling quick access to organized data.
+Using NotebookLM can save you time, enhancing the efficiency of qualitative data analysis. Here are some key advantages of using this tool: 
+- **Data Organization and Synthesis**: NotebookLM excels at synthesizing information from multiple documents. It allows users to create notebooks for specific projects and import relevant documents, enabling quick access to organized data.
 - **Custom Dataset Definition:** Unlike traditional AI tools that scrape the internet for information, NotebookLM allows users to define their own datasets. This means researchers can input their own notes, articles, and other qualitative data, ensuring that the AI works with reliable and relevant sources.
-- **Efficient Information Retrieval:** The tool can act as a virtual research assistant, capable of answering questions and tracking down references in the text based on the sources provided. This feature can save researchers significant time when searching for specific information within their qualitative data.
+- **Efficient Information Retrieval:** The tool can act as a virtual research assistant, capable of quickly answering questions and tracking down references in the text based on the sources provided.
 - **Enhanced Analysis Capabilities:** NotebookLM can analyze text and identify themes, patterns, and insights within qualitative data. This capability can help researchers uncover implicit meanings and connections.
 
 ## Cons of using NotebookLM for thematic analysis:

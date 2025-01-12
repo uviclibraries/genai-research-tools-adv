@@ -34,20 +34,22 @@ In this activity, you will use NotebookLM to identify and synthesize key themes/
 <img src="images/5-NotebookLM2.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 3. The NotebookLM interface is divided into three panes: a list of sources on the left, a chat window in the middle where you can ender prompts, and a Sources pane on the right, where saved notes will appear. To generate an overview of the document, click the **Briefing doc** button either in the chat window our Sources pane. This will automatically generate a note under the notes section of the Sources pane.
 <img src="images/5-NotebookLM3.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
-5. Click on a note to open it, and click on the title to rename it. You can close the note by clicking on the minimize button on the top right.
-6. To explore your data, you can either click on suggested questions at the bottom of the chat or enter your own.
+4. Click on a note to open it, and click on the title to rename it. You can close the note by clicking on the minimize button on the top right.
 <img src="images/5-NotebookLM4.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
-7. In the generated response in the chat, clicking on the numbered references will highlight relevant passages in the source text. This feature is only available in the chat window and isn't available in saved notes.
-8. Save chat responses as notes by clicking the **Save to note** button. 
+5. To explore your data, you can either click on suggested questions at the bottom of the chat or enter your own.
 <img src="images/5-NotebookLM5.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
-9. Explore the source guide by clicking the title of the source (not the check mark) in the left pane. Clicking on any of the Key topics generated will prompt an overview of the topic in the chat.
+6. In the generated response in the chat, clicking on the numbered references will highlight relevant passages in the source text. This feature is only available in the chat window and isn't available in saved notes.
 <img src="images/5-NotebookLM6.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
-10. To add another source that can be synethesized with the current source, close the right panel if it is open and click the plus symbol beside **Sources** in the top left. Then, enter the following link: ```https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-anne-sueyeun-seol```
-11. Both sources will be automatically selected by default. You can select which sources you want to analyze by using the check marks.
-<img src="images/5-NotebookLM7.png" style="width:200px;padding:10px;border: 1px solid #555;"><br>
-12. In the text box, enter prompts to find commonalities between the two articles, such as ```Synthesize the two interviews``` or ```Identify common themes from both interviews.``` Prompts can also depend on the insights you are looking for; a more specific example could be ```Identify common approaches to balancing livelihoods and creativity among both artists interviewed.```
-13. To re-name your project from the automatic title generated from the first source, click the title at the top. All chat responses and notes will then be saved under this title when you navigate to the home page. To share results, click the **Share** button on the top right.
+7. Save chat responses as notes by clicking the **Save to note** button. 
+<img src="images/5-NotebookLM7.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
+8. Explore the source guide by clicking the title of the source (not the check mark) in the left pane. Clicking on any of the Key topics generated will prompt an overview of the topic in the chat.
 <img src="images/5-NotebookLM8.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
+9. To add another source that can be synethesized with the current source, click the plus symbol beside **Add Source** in the top left. Then, enter the following link: ```https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-anne-sueyeun-seol```
+10. Both sources will be automatically selected by default. You can select which sources you want to analyze by using the check marks.
+<img src="images/5-NotebookLM9.png" style="float:right;width:350px;padding:10px; 1px solid #555;"><br>
+In the text box, enter prompts to find commonalities between the two articles, such as ```Synthesize the two interviews``` or ```Identify common themes from both interviews.``` Prompts can also depend on the insights you are looking for; a more specific example could be ```Identify common approaches to balancing livelihoods and creativity among both artists interviewed.```
+11. To re-name your project from the automatic title generated from the first source, click the title at the top. All chat responses and notes will then be saved under this title when you navigate to the home page. To share results, click the **Share** button on the top right.
+<img src="images/5-NotebookLM11.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 
   
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

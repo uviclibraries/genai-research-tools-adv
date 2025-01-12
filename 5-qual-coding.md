@@ -45,8 +45,9 @@ In this activity, you will use NotebookLM to identify and synthesize key themes/
 8. Explore the source guide by clicking the title of the source (not the check mark) in the left pane. Clicking on any of the Key topics generated will prompt an overview of the topic in the chat.
 <img src="images/5-NotebookLM8.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>
 9. To add another source that can be synethesized with the current source, click the plus symbol beside **Add Source** in the top left. Then, enter the following link: ```https://www.sadmag.ca/blog/2024/8/28/sell-out-a-series-5-questions-with-anne-sueyeun-seol```
-10. Both sources will be automatically selected by default. You can select which sources you want to analyze by using the check marks.
 <img src="images/5-NotebookLM9.png" style="float:right;width:350px;padding:10px; 1px solid #555;"><br>
+10. Both sources will be automatically selected by default. You can select which sources you want to analyze by using the check marks.
+<img src="images/5-NotebookLM10.png" style="float:right;width:350px;padding:10px; 1px solid #555;"><br>
 In the text box, enter prompts to find commonalities between the two articles, such as ```Synthesize the two interviews``` or ```Identify common themes from both interviews.``` Prompts can also depend on the insights you are looking for; a more specific example could be ```Identify common approaches to balancing livelihoods and creativity among both artists interviewed.```
 11. To re-name your project from the automatic title generated from the first source, click the title at the top. All chat responses and notes will then be saved under this title when you navigate to the home page. To share results, click the **Share** button on the top right.
 <img src="images/5-NotebookLM11.png" style="width:800px;padding:10px;border: 1px solid #555;"><br>

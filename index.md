@@ -28,5 +28,12 @@ At the end of this workshop, you will be able to:
 7. Use NotebookLM to identify key ideas/themes from transcripts
 8. Use NotebookLM to synthesize different transcripts
 9. Save insights generated from NotebookLM
+
+## Generative AI Workshop Pathway
+This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
+
+- **[GenAI Introduction](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
+- **[GenAI Intermediate](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+- **[GenAI Advanced](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

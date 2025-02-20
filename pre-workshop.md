@@ -16,9 +16,9 @@ To be ready to jump right into the interactive activities during the workshop, *
 - [Here's Why GPT4All Could Be A Real Game-Changer](https://www.youtube.com/watch?v=XNRcjdfkADI){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNRcjdfkADI" title="Here's Why GPT4All Could Be A Real GAME-CHANGER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## UVic Guidelines for Using Generative AI in Research (Draft)
+## UVic Guidelines for Using Generative AI in Research
 
-Please carefully review UVic's guidelines for using [*Generative AI in research*](https://www.uvic.ca/research-innovation/strategic-initiatives/gen-ai-in-research/index.php){:target="_blank"}, which are based on Canada's [Tri-agency Artificial Intelligence guidelines](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/use-generative-artificial-intelligence-development-and-review-research-proposals/guidance-use-artificial-intelligence-development-and-review-research-grant-proposals){:target="_blank"}.
+As a researcher it is very important that you carefully review UVic's guidelines for using [*Generative AI in research*](https://www.uvic.ca/research-innovation/strategic-initiatives/gen-ai-in-research/index.php){:target="_blank"}, which are based on Canada's [Tri-agency Artificial Intelligence guidelines](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/use-generative-artificial-intelligence-development-and-review-research-proposals/guidance-use-artificial-intelligence-development-and-review-research-grant-proposals){:target="_blank"}.
 
 ## Tips for Creating Prompts  (based on [Coursera’s Google AI Essentials Course](https://www.coursera.org/learn/google-ai-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-ai-essentials_google_FTCOF_learn_country-US-country-CA&campaignid=21236345441&adgroupid=159503076897&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=697863129536&hide_mobile_promo&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAiFKkeR7EzH8jO3pcyPpTKIoychc3t2hp3cZb17m8hoRmiWvRk2iWRoCvmwQAvD_BwE))
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5 - Qualitative Coding
+title: 5 - NotebookLM Qualitative Coding
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-# Generative AI for Research: Qualitative Coding
+# Generative AI for Research: Qualitative Coding with Google's NotebookLM
 
 <img src="images/1-qualitative-coding.jpeg" style="float:right;width:350px;padding:10px;" alt="Qualitative Coding Visualization">
 

@@ -21,8 +21,7 @@ At the end of this workshop, you will be able to:
 
 1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
 2. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
-3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-4. Use GenAI tools for Sentiment Analysis on free-form survey questions or social media posts.
+3. Use GenAI tools for Sentiment Analysis on free-form survey questions or social media posts.
 5. Upload an Excel spreadsheet, and then request a summary and insights from the data.
 6. Import transcripts onto NotebookLM
 7. Use NotebookLM to identify key ideas/themes from transcripts

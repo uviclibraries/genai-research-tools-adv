@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
-GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All like other large language models can:
+GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All combined with a downloadable large language model can:
 - Answer questions about the world
 - Help you as a personal writing assistant
 - Understand documents and give you answers about their content
@@ -19,9 +19,9 @@ GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (
 There are many reasons to use a local GenAI tool like GPT4All as an alternative to ChatGPT and other GenAI tools, including:
 - GPT4All is a completely offline application, so it can be used even if you don't have access to the internet.
 - Being offline also means that all the data you share with it stays on your computer, and GPT4All's creators can't see any of your data or prompts.
-- GPT4All allows you to query local documents in a folder on your laptop that you specify.
+- GPT4All allows you to query local documents in a folder that you specify on your laptop.
 
-> **Note**: GPT4All is not as capable as ChatGPT or other cloud-based GenAI tools, because it is limited by the speed of your computer. On the other hand it is private, so if prvacy is important for a task, then GPT4All might be a good tool choice.
+> **Note**: GPT4All is not as capable as ChatGPT or other cloud-based GenAI tools, because it is limited by the speed of your computer. On the other hand, it is private, so if privacy is important for a task, then GPT4All might be a good tool choice.
 
 Let's get started installing and using GPT4All for basic tasks!
 
@@ -63,7 +63,7 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 > - Maybe a question about your home town?
 > - Or a question about a recent research project that you've completed?
   
-## Install and Test another Language Model
+## Install and Test Another Language Model
 Let's try installing a second Language Model so that we can compare the results of the questions you've asked the _Llama 3 Instruct_ model with another model: 
 1. On the left navigation bar click on the green **Models** button.
 2. Click on the gree **Add Model** button on the top right of the screen.

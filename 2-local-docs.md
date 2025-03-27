@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 2 - GenAI for Local Documents
+title: 2 - GenAI for Local Docs
 nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
-# Use GPT4All to Query Local Documents
+# Use GPT4All to Query Documents in Local Folders
 <img src="images/2-local-docs.gif" style="float:right;width:520px;" alt="LocalDocs plugin install">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 

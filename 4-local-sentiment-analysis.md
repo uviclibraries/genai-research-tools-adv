@@ -73,7 +73,7 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
    - Type ```python3.exe -m pip install gpt4all``` and then press **Enter** button on your keyboard.
 
 ## Install a Code Editor
-If you have a preferred coded editor please go ahead and use it for the following steps. If you are using a computer managed by UVic or another organization, please contact your IT department and request that they install the software for you. If you don't have a preferred code editor (or don't know what a code editor is) please do the following:
+If you have a preferred coded editor please go ahead and use it and skip ahead to the next section. If you don't have a preferred code editor (or don't know what a code editor is) please do the following:
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor for your Mac or Windows computer.
 2. Open the install file you just downloaded (it's usually found either in your download folder, or desktop).
 3. Follow the installation instructions. If you have any problems installing Visual Studio Code, please ask the person leading the workshop for assistance.

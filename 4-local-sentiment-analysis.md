@@ -83,7 +83,7 @@ If you have a preferred coded editor please go ahead and use it and skip ahead t
 2. <img src="images/4-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open Folder...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
    - **If you are on a Mac computer**:
-     - click on the **Documents** menu item on the left of the dialogue box.
+     - Click on the **Documents** menu item on the left of the dialogue box.
      - Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button.
      - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
 <img src="images/4-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
@@ -92,11 +92,11 @@ If you have a preferred coded editor please go ahead and use it and skip ahead t
      - Next click on the **New Folder** button on the top left of the dialogue box, and name your folder: **sentiment-analysis**, and press **Enter** on your keyboard.
      - Press the **Select Folder** button on the bottom left of the dialogue box. Good job!
 <img src="images/4-create-folder-pc.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Create a project folder on a Windows computer"><br>
-4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
+4. Next, you're going to create a file to put your Python script in and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
    - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
-5. Let's start adding some Python code now to make sure everything is setup properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
+5. Let's start adding some Python code now to make sure everything is set up properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
 {% highlight python %}
 from gpt4all import GPT4All
 import csv
@@ -127,20 +127,20 @@ with model.chat_session():
     for x in feedback:
         print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
         print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
-        print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
+        print("_____________________") # This is to create physical separation between the feedback so that they are easier to read.
 {% endhighlight %}
 7. On the top menu click on the **File** menu, and then select **Save**.
 8. For a **Mac computer** you can run the script you just created by doing the following:
   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
   - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
-  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script, it has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds, the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 9. For a **Windows computer** you can run the script you just created by doing the following:
   - <img src="images/4-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
   - Type ```cd C:\sentiment-analysis\``` and then press **Enter** button on your keyboard.
-  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script, it has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds, the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 
 ## Create a Python script to conduct Sentiment Analysis on data in a Spreadsheet
@@ -157,8 +157,8 @@ import csv
 # Load the LLM you would like to use for your project
 model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads or loads a 4.66GB LLM
 
-#provide the prompt for the sentimate analysis here, including details like the sentimate cagetories you'd like it to use.
-prompt = "Analyze this customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, Negative. Please provide the feedback in one word without any reasonse for the choice. Here is a survey response: "
+# Provide the prompt for the sentiment analysis here, including details like the sentiment categories you'd like it to use.
+prompt = "Analyze this customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, and Negative. Please provide the feedback in one word without any reason for the choice. Here is a survey response: "
 
 # Intialize the feedback list where we will store the feedback comments
 feedback = []
@@ -182,13 +182,13 @@ with model.chat_session():
   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
   - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
-  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script, it has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds, the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 9. For a **Windows computer** you can run the script you just created by doing the following:
   - <img src="images/4-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
   - Type ```cd C:\Users\YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your user name on the computer of course).
-  - Next in the terminal type ```python3 analysis-csv.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Next in the terminal type ```python3 analysis-csv.py``` and then press enter. The first time you run the script, it has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds, the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
   
 [NEXT STEP: Qualitative Coding](qual-coding.html){: .btn .btn-blue }

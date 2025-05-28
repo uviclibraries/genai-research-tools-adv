@@ -26,7 +26,7 @@ Generative AI tools like GPT4All allow researchers to more quickly, efficiently,
 ## Install GPT4All (if you haven't already)
 - If you haven't already, please install [GPT4All on your laptop](1-local-genai-intro.html){:target="_blank"} and then come back to this web page.
 
-> NOTE: If you are on a UVic-managed computer you will need to ask your local IT staff member to install this software and Python on your laptop for you. If you're not sure who to ask to install the software, please email the UVic Computer Helpdesk for assistance: [helpdesk@uvic.ca](mailto:helpdesk@uvic.ca).
+> NOTE: If you are a UVic employee, you will need to use a personal computer for this activity.
 
 ## Manual GPT4All Sentiment Analysis Test
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:

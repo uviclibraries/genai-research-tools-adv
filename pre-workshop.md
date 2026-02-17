@@ -9,9 +9,9 @@ As a researcher it is very important that you carefully review UVic's guidelines
 ## Pre-Workshop Videos & Activities
 This workshop consists of a small amount of instruction so that most of the scheduled time can be devoted to interactive practice with various Generative AI (GenAI) tools. This allows participants to learn to use key features of these GenAI tools for research purposes and indirectly for general productivity. Some of the GenAI tools included in the active learning portion of the workshop are:
 - [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed) (general purpose)
-- [Perplexity](https://www.perplexity.ai/){:target="_blank"} (general purpose)
-- [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)
+- [Claude](https://claude.ai/new){:target="_blank"} (general purpose)
+- [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
 - [NotebookLM](https://notebooklm.google/){:target="_blank"} (general purpose)
 
 Next, to be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:

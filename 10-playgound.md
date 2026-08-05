@@ -5,7 +5,7 @@ nav_order: 10
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
-<img src="images/3-excel-example.png" style="float:right;width:520px;" alt="GPT4All in action!">
+
 # GPT4All on Your Laptop & Test It
 <img src="images/1-gpt4all-animation.gif" style="float:right;width:520px;" alt="GPT4All in action!">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.  Have fun!

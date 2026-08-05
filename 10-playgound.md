@@ -12,8 +12,8 @@ If you have any questions or get stuck as you work through this GPT4All exercise
 
 ## Installing GPT4All on Your Laptop
 GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All combined with a downloadable large language model can:
-- **Answer questions about the world**
-- _Help you as a personal writing assistant_
+- Answer questions about the world
+- Help you as a personal writing assistant
 - Understand documents and give you answers about their content
 
 There are many reasons to use a local GenAI tool like GPT4All as an alternative to ChatGPT and other GenAI tools, including:

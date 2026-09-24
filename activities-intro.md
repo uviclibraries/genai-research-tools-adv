@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Activities Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following **if you are working through the workshop materials without attending a live event**:
 - Read the [Introductory Slides](https://docs.google.com/presentation/d/1kJDpZQJLQh7ZLD_RQJqV5pw1loWlXoH7Pqu3e11LzDQ/edit?usp=sharing){:target="_blank"}  for the workshop, including the speaker notes at the bottom of the page as that is where a lot of the important information is (15 min)<br>

@@ -3,11 +3,10 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-**UPDATE WITH WORKSHOP BADGE URL FROM BADGR.COM:** 
 
 # Informal Credentials or Digital Badges
 
-<img src="REPLACE ME" style="float:right;width:180px;" alt="REPLACE Image"> 
+<img src="images/genai.png" alt="REPLACE Image"> 
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed advanced research-related GenAI skills. 
 
